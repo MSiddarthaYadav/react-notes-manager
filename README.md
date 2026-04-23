@@ -101,10 +101,4 @@ http://localhost:5173/
 
 ## 👨‍💻 Author
 
-Siddartha Yadav
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
+M Siddartha Yadav
