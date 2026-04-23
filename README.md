@@ -1,17 +1,103 @@
-# React + Vite
+# 📝 React Notes Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fast Notes Management application built using React and Vite.
+This project demonstrates component-based architecture, state management, and clean UI design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Add and manage notes
+* Organized component structure
+* Context API for theme handling
+* Reducer-based state management
+* Fast performance with Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-notes-manager
+* React
+* Vite
+* JavaScript (ES6+)
+* CSS
+
+---
+
+## 📁 Project Structure
+
+```
+my-app/
+ ├── src/
+ │   ├── App.jsx
+ │   ├── main.jsx
+ │   ├── Notes.jsx
+ │   ├── NotesReducer.js
+ │   ├── ThemeContext.jsx
+ │   ├── App.css
+ │   ├── index.css
+ │   └── assets/
+ ├── public/
+ ├── index.html
+ ├── package.json
+ └── vite.config.js
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```
+git clone https://github.com/your-username/react-notes-manager.git
+```
+
+2. Navigate to project folder:
+
+```
+cd react-notes-manager
+```
+
+3. Install dependencies:
+
+```
+npm install
+```
+
+4. Run the project:
+
+```
+npm run dev
+```
+
+---
+
+## 🌐 Output
+
+The app will run at:
+
+```
+http://localhost:5173/
+```
+
+---
+
+## 📌 Future Improvements
+
+* Add edit/delete notes feature
+* Store notes in local storage or database
+* Add authentication
+* Improve UI using Material UI
+
+---
+
+## 👨‍💻 Author
+
+Siddartha Yadav
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
