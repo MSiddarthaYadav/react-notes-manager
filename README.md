@@ -81,7 +81,10 @@ The app will run at:
 http://localhost:5173/
 ```
 
----
+## MAIN UI
+<img width="2234" height="1574" alt="image" src="https://github.com/user-attachments/assets/905a360a-bdfe-4a4d-8912-851c83408ce1" />
+
+
 
 ## 📌 Future Improvements
 
