@@ -84,11 +84,10 @@ http://localhost:5173/
 ## 📸 Screenshots
 
 Light Theme:
-<img width="1534" height="974" alt="image" src="https://github.com/user-attachments/assets/905a360a-bdfe-4a4d-8912-851c83408ce1" />
 <img src="https://github.com/user-attachments/assets/905a360a-bdfe-4a4d-8912-851c83408ce1" width="500"/>
 
 Dark theme:
-
+<img src="https://github.com/user-attachments/assets/284eaff0-0ee7-42ed-8d95-f37401deaef2" width="500"/>
 
 
 ## 📌 Future Improvements
